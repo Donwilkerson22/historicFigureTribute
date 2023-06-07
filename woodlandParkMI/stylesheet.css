@@ -1,0 +1,28 @@
+body{
+    padding:20px;
+    background-color: antiquewhite;
+    color: rgb(5, 5, 71);
+    font-size:large
+    
+    
+    
+
+}
+
+#pageHeader{
+    background-color: rgb(5, 5, 71);
+    color: antiquewhite;
+}
+
+
+#famousTable{
+    border: 10px;
+    border-color: rgb(5, 5, 71);
+    border-style: solid;
+    align-content: center;
+    padding: 20px;
+}
+
+#desegregation{
+    margin-left: 100px;
+}
